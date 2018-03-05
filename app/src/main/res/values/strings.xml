@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TallyHo</string>
+    <string name="button_tally">Tally</string>
+    <string name="checkbox_tallied">Tallied</string>
+    <string name="button_detally">Oops</string>
+    <string name="pref_tallies" translatable="false">tallies</string>
+    <string name="alert_settally">Set tally count</string>
+    <string name="alert_set">Set</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="item_set">Set count</string>
+</resources>
